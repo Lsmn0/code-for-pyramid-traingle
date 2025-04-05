@@ -1,5 +1,3 @@
-# code-for-pyramid-traingle
-
 # code for pyramid traingle
 n = int(input("Enter the number: "))
 i = 0
